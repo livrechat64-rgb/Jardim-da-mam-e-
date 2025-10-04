@@ -1,0 +1,5 @@
+{
+  "name": "Jardim da Mamãe",
+  "description": "A digital collection for our plants. Users can add plants with photos, and an AI assistant helps identify the species and provides care tips.",
+  "requestFramePermissions": []
+}
